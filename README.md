@@ -4,7 +4,13 @@ also there is ip range split-er in this package which helps you to make port sca
 and this program don't need high processor or high speed internet connection  
 but if you wnat to run more than 250 workers you need higher processor 
 
-#Example of usage in Uk ip range you can get the ip range in form of ***.***.***.***-***.***.***.*** from http://services.ce3c.be/ciprg
+#For lazy peoples 
+
+<code>git clone https://github.com/PETER-HATTSON/Hattson_port_scanner.git</code>
+
+<p>#Ip range source : you can get the ip range in form of <h5>xxx.xxx.xxx.xxx-xxx.xxx.xxx.xxx</h5> from <h4><a href="http://services.ce3c.be/ciprg">ip range site</a></h4></p>
+
+#Example of usage in Uk ip range 
 ![Screenshot from 2021-05-21 01-30-24](https://user-images.githubusercontent.com/74374146/119048596-b113c400-b9d4-11eb-85c7-9684c40fe105.png)
 
 
