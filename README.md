@@ -19,3 +19,4 @@ but if you wnat to run more than 250 workers you need higher processor
 ![Screenshot from 2021-05-21 01-30-12](https://user-images.githubusercontent.com/74374146/119048558-a2c5a800-b9d4-11eb-91ea-ddb7e6b99306.png)
 
 #Note: there is still a bug in it but it's harmless !
+#Bug Fixed.
